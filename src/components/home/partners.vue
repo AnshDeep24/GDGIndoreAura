@@ -9,8 +9,6 @@
 
             <v-flex xs12 md12 class="mt-2">
                 <p class="google-font my-2" style="font-size:110%">General Partners</p>
-                
-
                 <v-layout row wrap class="transparent">
                     <v-flex xs12 sm7 class="elevation-0 transparent">
                         <v-card class="elevation-0 pa-0 ma-0 transparent">
@@ -79,12 +77,12 @@
                                         class="white elevation-0"
                                     >
                                     <v-card flat tile class="d-flex pa-2 ma-1 elevation-1" style="border-radius:5px;border-width: 1px; border-style: solid;">
-                                        <a href="https://gdgjalandhar.com" target="_blank">
+                                        <a href="https://www.meetup.com/GoogleDeveloperGroupIndore/" target="_blank">
                                         <v-tooltip bottom>
                                             <template v-slot:activator="{ on }">
                                         <v-img
-                                            :src="require('@/assets/img/partners/gdgjalandhar.png')"
-                                            :lazy-src="require('@/assets/img/partners/gdgjalandhar.png')"
+                                            :src="require('@/assets/img/partners/gdgindore.png')"
+                                            :lazy-src="require('@/assets/img/partners/gdgindore.png')"
                                             aspect-ratio="3.0"
                                             class="white"
                                             v-on="on"
@@ -100,7 +98,7 @@
                                             </v-layout>
                                         </v-img>
                                         </template>
-                                        <span class="google-font">GDG Jalandhar</span>
+                                        <span class="google-font">GDG Indore</span>
                                         </v-tooltip>
                                         </a>
                                     </v-card>

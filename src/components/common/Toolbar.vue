@@ -12,7 +12,24 @@
     />
 
     <v-toolbar-title class="ml-0 pl-1 mr-1">
+      <div class="gdg-logo-wrapper">
+                <v-img
+            :src="require('@/assets/img/logo.png')"
+            :lazy-src="require('@/assets/img/logo.png')"
+            width="10vh">
+            <v-layout
+                slot="placeholder"
+                fill-height
+                align-center
+                justify-center
+                ma-0
+            >
+                <v-progress-circular indeterminate color="grey lighten-5"></v-progress-circular>
+            </v-layout>
+      </v-img>
       <span class="google-font">{{ChapterDetails.ChapterName}}</span>
+      </div>
+
     </v-toolbar-title>
     <v-spacer />
     <v-btn

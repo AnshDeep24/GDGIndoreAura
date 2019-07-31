@@ -21,7 +21,8 @@
                <p class="google-font" style="font-size:120%">
                    At sessions that span from the technical to the visionary, let’s celebrate and discover what the technologies can enable: how product innovation, open source, and ML and AI can propel enterprises forward and solve the big problems that impact all of us.
                </p>
-               <router-link to="/events" flat color="#4C4A78" class="ma-0 google-font" style="border-radius:5px;text-transform: capitalize;text-decoration:none;color:#4C4A78">See More</router-link>             
+               <a href = "https://www.meetup.com/GDGIndore/" target = "_blank">see more</a>
+               <!-- <router-link to="/events" flat color="#4C4A78" class="ma-0 google-font" style="border-radius:5px;text-transform: capitalize;text-decoration:none;color:#4C4A78">See More</router-link>              -->
             </v-flex> 
         </v-layout>
 
@@ -86,9 +87,9 @@
                 </v-card>
             </v-flex>
 
-            <v-flex xs12 v-if="notFoundEventFlag==true" class="text-xs-center">
+            <!-- <v-flex xs12 v-if="notFoundEventFlag==true" class="text-xs-center">
                 <p class="google-font px-2" style="font-size:140%"><v-icon >highlight_off</v-icon> Events Not Found!</p>
-            </v-flex>
+            </v-flex> -->
         </v-layout>
 
         <!-- Mobile Screen -->
@@ -156,9 +157,9 @@
                     </v-list>
                 </v-slide-y-reverse-transition>
             </v-flex>
-            <v-flex xs12 v-if="notFoundEventFlag==true" class="text-xs-center">
+            <!-- <v-flex xs12 v-if="notFoundEventFlag==true" class="text-xs-center">
                 <p class="google-font px-2" style="font-size:140%"><v-icon >highlight_off</v-icon> Events Not Found!</p>
-            </v-flex>
+            </v-flex> -->
         </v-layout>
 
     </v-container>

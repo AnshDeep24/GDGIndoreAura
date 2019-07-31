@@ -17,11 +17,11 @@
               </v-tooltip>
             </span>
           </p>
-          <v-divider></v-divider>
+          <!-- <v-divider></v-divider> -->
         </v-flex>
       </v-layout>
 
-      <v-layout wrap justify-center row>
+      <!-- <v-layout wrap justify-center row>
         <v-flex xs12 md10 lg10>
            <v-layout wrap align-start justify-start row class="my-2">
             <v-flex xs12 md3 sm4 lg3 class="py-2">
@@ -47,11 +47,11 @@
            </v-layout>
         </v-flex>
 
-      </v-layout>
+      </v-layout> -->
 
       <v-layout wrap justify-center row class="mb-0">
         <v-flex xs12 md10 lg10>
-          <v-divider></v-divider>
+          <!-- <v-divider></v-divider> -->
            <v-toolbar flat color="white" class="pa-0 mx-0" style="padding:0 !important" >
               <v-toolbar-title class="google-font pl-0 ml-0 mr-3" style="font-size:200%">{{ChapterDetails.ChapterName}}</v-toolbar-title>
 

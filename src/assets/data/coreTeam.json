@@ -1,56 +1,47 @@
-[
-    {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
+[{
+        "name": "Pradhan Yash Sharma",
+        "designation": "GDG Lead",
+        "twitter": "https://twitter.com/PradhanYashSha1?s=08",
+        "linkedin": "https://www.linkedin.com/in/pradhanyashsharma",
+        "github": "",
+        "profileImage": "yash.jpg",
+        "website": ""
     },
     {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
+        "name": "Tushar Pal",
+        "designation": "GCDC Lead",
+        "twitter": "https://twitter.com/tpal94",
+        "linkedin": "https://www.linkedin.com/in/tushar-p-325b5869",
+        "github": "",
+        "profileImage": "tushar.jpg",
+        "website": ""
     },
     {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
+        "name": "Mayank Jain",
+        "designation": "Developer",
+        "twitter": "https://twitter.com/vrijrajsingh",
+        "linkedin": "https://www.linkedin.com/in/mayank-jain-262635140",
+        "github": "",
+        "profileImage": "mayank.jpg",
+        "website": ""
     },
     {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
+        "name": "Priyal Jain",
+        "designation": "Developer",
+        "twitter": "https://twitter.com/priyaljain919",
+        "linkedin": "https://www.linkedin.com/in/priyaljain919/",
+        "github": "",
+        "profileImage": "priyal.jpg",
+        "website": ""
     },
     {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
+        "name": "Ayush Agarwal",
+        "designation": "Website/Checkin",
+        "twitter": "https://twitter.com/agentaayush",
+        "linkedin": "https://www.linkedin.com/in/aayushagrawal101/",
+        "github": "",
+        "profileImage": "ayush.jpg",
+        "website": ""
     }
+
 ]
