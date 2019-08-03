@@ -1,47 +1,138 @@
-[
-    {
-        "name":"Name",
-        "designation":"Development",
-        "twitter":"https://twitter.com/",
-        "linkedin":"https://www.linkedin.com/",
-        "github":"https://github.com/",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Management",
-        "twitter":"",
-        "linkedin":"https://www.linkedin.com/",
-        "github":"",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Development",
-        "twitter":"https://twitter.com/",
-        "linkedin":"https://www.linkedin.com/",
-        "github":"https://www.github.com/",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Development",
-        "twitter":"https://twitter.com/",
-        "linkedin":"https://linkedin.com/",
-        "github":"https://github.com/",
-        "profileImage":"",
-        "website":"https://github.com"
-    },
-    {
-        "name":"Name",
-        "designation":"Development",
-        "twitter":"https://twitter.com/",
-        "linkedin":"",
-        "github":"https://github.com/",
-        "profileImage":"",
-        "website":""
-    }
+[{
+    "name": "Pradhan Yash Sharma",
+    "designation": "GDG Lead",
+    "twitter": "https://twitter.com/PradhanYashSha1?s=08",
+    "linkedin": "https://www.linkedin.com/in/pradhanyashsharma",
+    "github": "",
+    "profileImage": "yash.jpg",
+    "website": ""
+},
+{
+    "name": "Tushar Pal",
+    "designation": "GCDC Lead",
+    "twitter": "https://twitter.com/tpal94",
+    "linkedin": "https://www.linkedin.com/in/tushar-p-325b5869",
+    "github": "",
+    "profileImage": "tushar.jpg",
+    "website": ""
+},
+{
+    "name": "Mayank Jain",
+    "designation": "Developer",
+    "twitter": "https://twitter.com/vrijrajsingh",
+    "linkedin": "https://www.linkedin.com/in/mayank-jain-262635140",
+    "github": "",
+    "profileImage": "mayank.jpg",
+    "website": ""
+},
+ 
+{  
+    "name":"Adeen Shukla",
+    "profileImage":"https://github.com/adeen-s.png",
+    "designation":"Developer/Organizer",
+    "twitter":"https://twitter.com/AdeenShukla",
+    "github.com":"https://github.com/adeen-s",
+    "linkedin":"https://linkedin.com/in/adeen-s",
+    "website":null
+},
+{  
+    "name":"Aayush Agrawal",
+    "profileImage":"https://media.licdn.com/dms/image/C5103AQHV0xgXriPPWw/profile-displayphoto-shrink_200_200/0?e=1570060800&v=beta&t=Wvlab68WDw6wIsvwgRFEniqnvoBkQI_Rs4ZYGUMtF44",
+    "designation":"Organizer",
+    "twitter":"https://twitter.com/agentaayush",
+    "github.com":"https://github.com/aayushagra",
+    "linkedin":"https://www.linkedin.com/in/aayushagrawal101/",
+    "website":null
+},
+{  
+    "name":"Shachita Jain",
+    "profileImage":"http://github.com/Shachita.png",
+    "designation":"Content Writer/Organizer",
+    "twitter":"https://twitter.com/ShachitaJain",
+    "github.com":"https://github.com/shachita",
+    "linkedin":"https://www.linkedin.com/in/shachita/",
+    "website":null
+},
+{  
+    "name":"Savvy Jain",
+    "profileImage":"https://avatars3.githubusercontent.com/u/9315218?v=4",
+    "designation":"Organizer",
+    "twitter":"www.twitter.com/savvyjain",
+    "github.com":"github.com/savvyjain",
+    "linkedin":"linkedin.com/in/savvyjain",
+    "website":null
+},
+{  
+    "name":"Udit Sen",
+    "profileImage":"https://github.com/aedit.png",
+    "designation":"Ticketing/Organizer",
+    "twitter":"https://twitter.com/aeditme",
+    "github.com":"https://github.com/aedit",
+    "linkedin":"https://linkedin.com/in/aedit",
+    "website":null
+},
+{  
+    "name":"Ankur Barve",
+    "profileImage":"https://github.com/ankur-b.png",
+    "designation":"Checkin / Volunteer ",
+    "twitter":"https://twitter.com/ankurbarve",
+    "github.com":"https://github.com/ankur-b",
+    "linkedin":"https://www.linkedin.com/in/ankur-barve-371b25158",
+    "website":null
+},
+{  
+    "name":"Akshay Malviya",
+    "profileImage":"https://photos.app.goo.gl/UVXMe7vi9PwNPFP88",
+    "designation":"Organizer",
+    "twitter":"https://twitter.com/malviya_akshay",
+    "github.com":"https://github.com/AkshayMalviya",
+    "linkedin":"https://www.linkedin.com/in/akshaymalviya",
+    "website":null
+},
+{  
+    "name":"Akash Gangrade",
+    "profileImage":"https://photos.app.goo.gl/U327mhsMUX5LkTS3A",
+    "designation":"Organizer",
+    "twitter":"https://twitter.com/akashgangrade23?s=08",
+    "github.com":"https://github.com/akashgangrade",
+    "linkedin":"https://www.linkedin.com/in/akash-gangrade-8428b8106",
+    "website":null
+},
+{  
+    "name":"Yashaswini Taose",
+    "profileImage":"https://photos.app.goo.gl/U5yxKCMGyj2CzrAg8",
+    "designation":"social media manager",
+    "twitter":"https://twitter.com/yashaswinitaos1",
+    "github.com":"https://github.com/yashaswinitaose",
+    "linkedin":"https://www.linkedin.com/in/yashaswini-taose",
+    "website":null
+},
+{  
+    "name":"Devesh Lashkari",
+    "profileImage":null,
+    "designation":"Co-Organizer",
+    "twitter":"https://twitter.com/deveshlashkari",
+    "github.com":"https://github.com/deveshlashkari",
+    "linkedin":"https://www.linkedin.com/in/deveshlashkari",
+    "website":null
+},
+{
+    "name": "Priyal Jain",
+    "designation": "Developer",
+    "twitter": "https://twitter.com/priyaljain919",
+    "linkedin": "https://www.linkedin.com/in/priyaljain919/",
+    "github": "",
+    "profileImage": "priyal.jpg",
+    "website": ""
+},
+{
+    "name": "Ayush Agarwal",
+    "designation": "Website/Checkin",
+    "twitter": "https://twitter.com/agentaayush",
+    "linkedin": "https://www.linkedin.com/in/aayushagrawal101/",
+    "github": "",
+    "profileImage": "ayush.jpg",
+    "website": ""
+}
+
 ]
